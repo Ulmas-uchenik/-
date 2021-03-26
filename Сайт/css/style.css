@@ -1,0 +1,100 @@
+body {
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/Kod.jpg) no-repeat center center fixed;
+    background-size:cover;
+    font-family: courier new;
+}
+
+.h1 {
+    text-transform:uppercase;
+    text-align:center;
+    margin: 100px;
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+
+.div {
+    width: 1450px;
+    margin: 30px auto;
+      
+    border-radius: 30px;
+    padding: 20px;
+}             
+
+p {
+    font-size: 30px;
+    text-align:center;
+   color: #ffffff;
+}
+
+
+
+
+.img0 {
+    border-radius:  40%;
+    height: 400px;
+    padding: 30px;
+    box-shadow: 0 8px 18px #ff8000;
+}
+
+.img-0 {
+    height: 80px;
+    border-radius: 50%;
+    padding: 18px;
+    box-shadow: 0 5px 12px #ff8000;
+}
+
+.ime0 {
+     font-size: 45px;
+     font-family: courier new;
+    color: #ff8000;    
+}
+
+
+
+
+.img1 {
+    border-radius:  40%;
+    height: 400px;
+    padding: 30px;
+    box-shadow: 0 8px 18px #2555f7;    
+}
+
+.img-1 {
+    height: 80px;
+    border-radius: 50%;
+    padding: 18px;
+    box-shadow: 0 5px 12px #2555f7;
+}
+
+.ime1 {
+     font-size: 58px;
+     font-family: courier new;
+    color: #2555f7;
+}
+
+
+
+
+.img2 {
+    border-radius:  40%;
+    height: 400px;
+    padding: 30px;
+    box-shadow: 0 8px 18px #ff0093;
+}
+
+.img-2 {
+    height: 80px;
+    border-radius: 50%;
+    padding: 18px;
+    box-shadow: 0 5px 12px #ff0093;
+}
+
+.ime2 {
+     font-size: 51px;
+     font-family: courier new;
+    color: #ff0093;
+    
+}
+       
+
+
